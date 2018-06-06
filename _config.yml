@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /silicon-valley
+exclude: ['readme.md']
